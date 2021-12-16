@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![alt text](https://github.com/sudheer11002/Flutter-UI-Demo/blob/main/assets/images/ss.png = 250x250)
+![alt text](https://github.com/sudheer11002/Flutter-UI-Demo/blob/main/assets/images/ss.png)
 
 This project is a starting point for a Flutter application.
 
